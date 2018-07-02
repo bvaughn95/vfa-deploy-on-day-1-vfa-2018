@@ -279,3 +279,5 @@ A common issue is not being able to authenticate with GitHub. You need to use HT
 * [Setting Up Git](https://help.github.com/articles/set-up-git)
 * [HTTPS Cloning Errors](https://help.github.com/articles/https-cloning-errors)
 * [Setting Up SSH](https://help.github.com/articles/generating-ssh-keys)
+* 
+* git remote set-url origin https://github.com/MikeHLee/vfa-deploy-on-day-1-vfa-2018.git
